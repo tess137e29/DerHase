@@ -1,0 +1,14 @@
+body {
+    font-family: Segoe UI Variable Text Semibold;
+    background-color: #85144A;
+    color: #FF841A;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+head {
+    font-color: white;
+}
